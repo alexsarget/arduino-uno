@@ -1,9 +1,9 @@
 # Arduino 1 repositorio prueba 
 
-##Plataforma 
+## Plataforma 
 
 ## Introducción 
 
 ## Arduino es ...
 
-##Arquitectura ...
+## Arquitectura ...
